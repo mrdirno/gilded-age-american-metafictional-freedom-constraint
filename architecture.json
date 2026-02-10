@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-metafictional-freedom-constraint",
+  "title": "THE INVOLUBLE FRAME",
+  "tagline": "A Gilded Age heir learns that every fortune is a story, and every story needs its cage.",
+  "target_words": 70000,
+  "actual_words": 65875,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Architecture of Desire",
+    "Metafiction as Financial Instrument",
+    "The Paradox of Constrained Freedom",
+    "The Materiality of Narrative"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Lesson of the Keystone",
+      "words": 2745
+    },
+    {
+      "ch": 2,
+      "title": "The Commission",
+      "words": 2745
+    },
+    {
+      "ch": 3,
+      "title": "The Mine as Origin Story",
+      "words": 2745
+    },
+    {
+      "ch": 4,
+      "title": "Ledgers and Legends",
+      "words": 2745
+    },
+    {
+      "ch": 5,
+      "title": "The Hull Prospectus",
+      "words": 2745
+    },
+    {
+      "ch": 6,
+      "title": "Evelyn's First Draft",
+      "words": 2745
+    },
+    {
+      "ch": 7,
+      "title": "The Dakota Mirage",
+      "words": 2745
+    },
+    {
+      "ch": 8,
+      "title": "A Dinner of Revelations",
+      "words": 2745
+    },
+    {
+      "ch": 9,
+      "title": "The Charter's Teeth",
+      "words": 2745
+    },
+    {
+      "ch": 10,
+      "title": "Silas Observes the Observer",
+      "words": 2745
+    },
+    {
+      "ch": 11,
+      "title": "The Panic of '93: A Stress Test",
+      "words": 2745
+    },
+    {
+      "ch": 12,
+      "title": "Father's Unwritten Chapter",
+      "words": 2745
+    },
+    {
+      "ch": 13,
+      "title": "The Biography Serialized",
+      "words": 2745
+    },
+    {
+      "ch": 14,
+      "title": "Public Truth, Private Fiction",
+      "words": 2745
+    },
+    {
+      "ch": 15,
+      "title": "Hull's Second Act",
+      "words": 2745
+    },
+    {
+      "ch": 16,
+      "title": "A Constraint of the Heart",
+      "words": 2745
+    },
+    {
+      "ch": 17,
+      "title": "The Frame Begins to Crack",
+      "words": 2745
+    },
+    {
+      "ch": 18,
+      "title": "Negotiating the Ending",
+      "words": 2745
+    },
+    {
+      "ch": 19,
+      "title": "The Inviolable Clause",
+      "words": 2745
+    },
+    {
+      "ch": 20,
+      "title": "Choosing the Canvas",
+      "words": 2745
+    },
+    {
+      "ch": 21,
+      "title": "Publication Day",
+      "words": 2745
+    },
+    {
+      "ch": 22,
+      "title": "The Fortune as Manual",
+      "words": 2745
+    },
+    {
+      "ch": 23,
+      "title": "The New Architect",
+      "words": 2745
+    },
+    {
+      "ch": 24,
+      "title": "A Story with Walls",
+      "words": 2745
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a modern-day Silas, a venture capitalist, explains the 'constraint as feature' to a startup founder pitching a limitless metaverse.",
+      "Draft Evelyn Lytton's field notes from her first visit to the Thorne Mine, capturing the dissonance between the romantic origin story and the gritty reality.",
+      "Compose a 'prospectus' for a purely fictional asset (e.g., a patent for a mood, shares in a dynasty's reputation) using Phineas G. Hull's principles.",
+      "Imagine a chapter where Silas, now older, reads his own fictionalized biography to his child. What does he emphasize? What does he omit?"
+    ],
+    "technical": [
+      "Build a simple interactive 'constraint engine' where a user defines a narrative premise (e.g., 'a fortune') and must add 3 constraints that make it more believable/valuable.",
+      "Create a text analysis tool that compares passages from the novel's 'financial prospectus' scenes with real Gilded Age stock pamphlets, highlighting rhetorical similarities."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Edith Wharton",
+      "Jorge Luis Borges",
+      "Adam Smith",
+      "Mark Twain"
+    ]
+  },
+  "cover_prompt": "A young Gilded Age heir, his back to the viewer, stands before an immense, ornate gilded picture frame, but the frame does not hold a painting; instead, it perfectly encases a breathtaking, hyper-realistic view of his own sprawling industrial estate under a stormy sky, the frame's beveled edge becoming the horizon line, [Detailed Scene & Context: within a vast, shadowy library of dark mahogany, the air thick with dust motes caught in slanted light, shelves groan under the weight of leather-bound ledgers whose spines are etched not with titles but with complex financial equations and fragmented narrative phrases, a single, taut golden thread emerges from the spine of a book on a central lectern and is physically woven into the intricate filigree of the massive frame, binding story to structure], [Artistic Style & Medium: in the atmospheric and symbolically dense style of Remedios Varo, combined with the precise, luminous realism of Edward Hopper's interior light and the intricate, haunting architectural detail of Piranesi's etchings, rendered in oil on canvas with exquisite glaze layers], [Composition & Camera: book cover framing, a centered and symmetrical composition that emphasizes the paradoxical depth of the framed world, shot from a low angle to make the frame and library feel monumental and imposing, a shallow depth of field sharp on the thread and the heir's hand resting on the frame's edge], [Lighting & Color Palette: dramatic chiaroscuro lighting from a single, unseen high window, casting long, defining shadows and creating a stark contrast between the warm, dim golds, umbers, and deep burgundies of the library and the cooler, volatile slate grays and greens of the landscape imprisoned within the gilded frame], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
